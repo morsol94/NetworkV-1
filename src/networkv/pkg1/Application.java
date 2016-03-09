@@ -9,15 +9,32 @@ package networkv.pkg1;
  *
  * @author Morten
  */
-public class NetworkV1
+public class Application
 {
-
+    
+    
+    /**
+     * 
+     */
+    public Application()
+    {
+       
+        
+    }
+    
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args)
     {
-        // TODO code application logic here
+        Application testRunner = new Application();
+        
+    }
+    
+    
+    public void makeDummies()
+    {
+        
     }
     
 }

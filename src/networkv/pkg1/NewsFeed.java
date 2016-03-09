@@ -66,4 +66,5 @@ public class NewsFeed
             System.out.println();   // empty line between posts
         }
     }
+
 }
